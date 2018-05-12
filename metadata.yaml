@@ -1,0 +1,30 @@
+_repo: In-the-Depths-of-the-Dark-Continentor-The-Vengeance-of-Van-Vincent_43353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, Cornelius
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '42153'
+    url: http://www.gutenberg.org/2009/agents/42153
+description: ''
+gutenberg_issued: '2013-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Dime novels'
+- !lcsh 'Adventure stories'
+- !lcsh 'Americans -- Africa -- Fiction'
+title: In the Depths of the Dark Continent; or, The Vengeance of Van Vincent
+url: http://www.gutenberg.org/ebooks/43353
